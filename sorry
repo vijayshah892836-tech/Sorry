@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>I’m Sorry, Pranjal</title>
+<style>
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(to bottom, #fbecec, #ffffff);
+  color: #333;
+  text-align: center;
+}
+.container {
+  max-width: 800px;
+  margin: auto;
+  padding: 40px 20px;
+}
+h1 {
+  color: #c0392b;
+  font-size: 36px;
+}
+p {
+  font-size: 18px;
+  line-height: 1.6;
+}
+.section {
+  margin-top: 40px;
+}
+.photos {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 15px;
+  margin-top: 20px;
+}
+.photos img {
+  width: 100%;
+  border-radius: 15px;
+}
+.footer {
+  margin-top: 50px;
+  font-style: italic;
+  color: #555;
+}
+</style>
+</head>
+<body>
+
+<div class="container">
+  <h1>Pranjal, I’m Truly Sorry</h1>
+
+  <div class="section">
+    <p>
+      I said things that were wrong, hurtful, and unfair.  
+      Calling you immature, saying you cry too much, questioning your intelligence —  
+      none of that defines you.  
+      It only shows how careless I was with my words.
+    </p>
+  </div>
+
+  <div class="section">
+    <p>
+      You matter to me deeply, Pranjal.  
+      You give me more time, more patience, and more effort than I often give back.  
+      Instead of valuing that, I hurt you — and that’s on me.
+    </p>
+  </div>
+
+  <div class="section">
+    <p>
+      I’m not writing this to defend myself.  
+      I’m writing this because I regret hurting the person who chooses me every day.  
+      I promise to be more understanding, more respectful, and more thoughtful with you.
+    </p>
+  </div>
+
+  <div class="section">
+    <h2>Our Memories 🤍</h2>
+    <p>(These moments mean everything to me)</p>
+
+    <div class="photos">
+      <!-- REPLACE THESE WITH YOUR REAL PHOTOS -->
+      <img src="photo1.jpg" alt="Us together">
+      <img src="photo2.jpg" alt="Our memory">
+      <img src="photo3.jpg" alt="Another moment">
+    </div>
+  </div>
+
+  <div class="footer">
+    <p>
+      I don’t want to lose you over words I didn’t mean.  
+      I’m learning. I’m sorry.  
+      <br><br>
+      — Yours, always
+    </p>
+  </div>
+</div>
+
+</body>
+</html>
